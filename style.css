@@ -1,0 +1,12 @@
+.override
+{
+    background-color: #212121;
+    color:aliceblue;
+    line-height: 2rem;
+}
+
+.carousel
+{
+    width: 60%;
+    margin:auto;
+}
